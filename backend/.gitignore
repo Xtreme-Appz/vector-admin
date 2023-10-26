@@ -1,7 +1,0 @@
-.env.production
-.env.development
-logs/server.log
-*.db
-*.sqbpro
-node_modules
-storage/vector-cache/*.json
