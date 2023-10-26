@@ -1,9 +1,0 @@
-v-env
-.env
-!.env.example
-
-node_modules
-__pycache__
-v-env
-.DS_Store
-yarn-error.log
